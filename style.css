@@ -1,0 +1,10 @@
+body{
+    background-color: magenta;
+}
+h1{
+    color: cyan;
+}
+p{
+    letter-spacing: normal;
+    word-spacing: normal;
+}
